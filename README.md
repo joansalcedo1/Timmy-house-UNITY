@@ -8,6 +8,7 @@
 
 **- Orientado a:** Entrenamiento 
 
+**- Ver proyecto: https://youtu.be/4PNn9I-6tgE
 ---
 
 ## Descripción general
