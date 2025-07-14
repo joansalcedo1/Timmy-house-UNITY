@@ -1,9 +1,9 @@
 # 🎮 Timmy house
 
-**Tipo de aplicación:** Juego casual
-**Tecnología:** Unity (versión 2022.2.37f1)  
-**Plataformas:** Windows 
-**Orientado a:** Entrenamiento 
+**- Tipo de aplicación:** Juego casual
+**- Tecnología:** Unity (versión 2022.2.37f1)  
+**- Plataformas:** Windows 
+**- Orientado a:** Entrenamiento 
 
 ---
 
