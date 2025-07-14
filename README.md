@@ -1,34 +1,33 @@
-# 🎮 Nombre del Proyecto
+# 🎮 Timmy house
 
-**Tipo de aplicación:** Aplicación interactiva / Simulación educativa / Juego serio / Otro  
-**Tecnología:** Unity (versión X.X.X)  
-**Plataformas:** Windows / WebGL / Android / etc.  
-**Orientado a:** Aprendizaje / entrenamiento / sensibilización / práctica guiada
-
+**Tipo de aplicación:** Juego casual
+**Tecnología:** Unity (versión 2022.2.37f1)  
+**Plataformas:** Windows 
+**Orientado a:** Entrenamiento 
 ---
 
 ## 📘 Descripción general
 
-Este proyecto fue desarrollado como parte de mi portafolio personal con el objetivo de explorar y aplicar principios de aprendizaje interactivo mediante tecnologías inmersivas. Utiliza el motor Unity para ofrecer experiencias significativas y prácticas que pueden ser adaptadas fácilmente a entornos de formación digital, como los que desarrolla **Sistel Co**.
+Este proyecto corresponde a la segunda escena de una experiencia interactiva completa desarrollada en Unity durante un taller orientado a fortalecer conocimientos fundamentales en desarrollo de videojuegos y entornos 3D. La experiencia completa estaba dividida en tres etapas, diseñadas para retar la lógica, la orientación espacial y la exploración del jugador.
 
+En esta escena, el usuario controla a Timmy, un personaje en tercera persona que, tras haber encontrado una casa en un barrio (escena 1), debe ahora explorar su interior y encontrar tres llaves ocultas. Esta escena fue construida con un enfoque en el diseño espacial, exploración libre y ambientación interactiva.
 ---
 
 ## 🎯 Objetivos del proyecto
 
-- ✅ Presentar una experiencia didáctica interactiva.
-- ✅ Integrar elementos multimedia (audio, animación, interactividad).
-- ✅ Evaluar la comprensión del usuario mediante mecánicas simples (opcional).
-- ✅ Potenciar la autonomía del aprendiz con retroalimentación en tiempo real (si aplica).
+- ✅ Presentar una experiencia didáctica interactiva. Comprensión del motor Unity y su ciclo de vida.
+- ✅ Integrar elementos multimedia (audio, animación, animaciones, interactividad) e integración de interacciones físicas y detección de colisiones.
+- ✅ Aplicación de sistemas de luces, triggers y condiciones lógicas simples.
+- ✅ Habilidad para trabajar dentro de un proyecto mayor, manteniendo consistencia y escalabilidad.
 
 ---
 
 ## 🛠️ Funcionalidades clave
 
-- 🎯 Interfaz intuitiva para el usuario
-- 🔊 Manejo de audio con retroalimentación o ambientación
-- 📚 Elementos educativos integrados (textos, imágenes, guías)
-- 🎮 Interacciones con objetos o entornos (clics, arrastre, navegación libre)
-- 🧩 Posible sistema de evaluación o progreso (cuestionarios, desafíos)
+- Sistema de exploración en tercera persona con animaciones integradas para una experiencia fluida.
+- Diseño completo del escenario desde cero, incluyendo arquitectura interior, distribución espacial y ambientación general.
+- Mecánica de recolección de llaves, colocadas estratégicamente para fomentar la exploración y la toma de decisiones.
+- istema de iluminación dinámica, permitiendo al jugador encender o apagar luces a su gusto, añadiendo un componente de ambientación personalizada y control del entorno.
 
 ---
 
