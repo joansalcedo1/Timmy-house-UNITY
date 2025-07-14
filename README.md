@@ -42,7 +42,7 @@ En esta escena, el usuario controla a Timmy, un personaje en tercera persona que
 Joan Sebastian Salcedo
 Desarrollador de experiencias interactivas con enfoque en UX.
 
--- 
+--
 
 ## Contacto
 Estoy abierto a colaborar, aprender y crecer en entornos donde el desarrollo de software se cruza con la innovación educativa.
