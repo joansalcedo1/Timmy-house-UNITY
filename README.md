@@ -4,6 +4,7 @@
 **Tecnología:** Unity (versión 2022.2.37f1)  
 **Plataformas:** Windows 
 **Orientado a:** Entrenamiento 
+
 ---
 
 ## 📘 Descripción general
