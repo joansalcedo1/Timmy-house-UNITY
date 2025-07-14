@@ -10,7 +10,6 @@
 
 **Ver proyecto**
 
-En este link encontraras un video tipo "gameplay" del proyecto: https://youtu.be/4PNn9I-6tgE
 --- 
 
 ## Descripción general
