@@ -7,7 +7,11 @@
 ---
 
 ## 📘 Descripción general
-Este proyecto corresponde a la segunda escena de una experiencia interactiva completa desarrollada en Unity durante un taller orientado a fortalecer conocimientos fundamentales en desarrollo de videojuegos y entornos 3D. La experiencia completa estaba dividida en tres etapas, diseñadas para retar la lógica, la orientación espacial y la exploración del jugador. En esta escena, el usuario controla a Timmy, un personaje en tercera persona que, tras haber encontrado una casa en un barrio (escena 1), debe ahora explorar su interior y encontrar tres llaves ocultas. Esta escena fue construida con un enfoque en el diseño espacial, exploración libre y ambientación interactiva.
+
+Este proyecto corresponde a la segunda escena de una experiencia interactiva completa desarrollada en Unity durante un taller orientado a fortalecer conocimientos fundamentales en desarrollo de videojuegos y entornos 3D. La experiencia completa estaba dividida en tres etapas, diseñadas para retar la lógica, la orientación espacial y la exploración del jugador. 
+En esta escena, el usuario controla a Timmy, un personaje en tercera persona que, tras haber encontrado una casa en un barrio (escena 1), debe ahora explorar su interior y encontrar tres llaves ocultas. Esta escena fue construida con un enfoque en el diseño espacial, exploración libre y ambientación interactiva.
+
+
 ---
 
 ## 🎯 Objetivos del proyecto
